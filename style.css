@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 100px;
+  background-color: #ffebc5;
+}
+
+#about {
+  padding-top: 100px;
+}
+#projects {
+  background-color: #ffebc5;
+  padding-top: 100px;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+  padding: 3px;
+  line-height: 75px;
+}
